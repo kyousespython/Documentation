@@ -1,0 +1,8 @@
+-- 1
+loadstring(game:HttpGet'https://raw.githubusercontent.com/ao-0/miami-nights/main/Resources/AirKey/Manjaro1_0.lua')()('Kaos Hub', 'Key System', 'https://workink.net/1QH2/llmwzrm5')
+print'Whitelisted!'
+-- 2
+local AirKey = loadstring(game:HttpGet'https://raw.githubusercontent.com/ao-0/miami-nights/main/Resources/AirKey/Manjaro1_0.lua')();
+wait(2)
+AirKey('kyo stinks', 'heya', 'https://workink.net/1QH2/llmwzrm5')
+print'Whitelisted!'
